@@ -1,2 +1,12 @@
 /CMakeLists.txt.user
 /build
+https://github.com/xmrig/xmrig-cuda/blob/37d72c8b75f19fc9e4e20a7ba561978c43405f2b/LICENSE
+{
+   ...
+   "cuda": {
+      "enabled": true,
+      "loader": "c:/some/path/xmrig-cuda.dll",
+      ...
+   }
+   ...
+}
